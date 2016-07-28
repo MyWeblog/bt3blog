@@ -1,2 +1,3 @@
 # bt3blog
-[For from this address](http://bt3gl.github.io/)
+download with wget -r .. and upload to github
+[original address](http://bt3gl.github.io/)
